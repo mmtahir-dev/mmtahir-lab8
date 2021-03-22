@@ -39,7 +39,7 @@ class CityListTest {
 
         cityList.add(new City("Vancouver", "British Columbia"));
 
-        assertEquals(2, cityList.countCities());
-        
+        assertEquals(3, cityList.countCities());
+
     }
 }
